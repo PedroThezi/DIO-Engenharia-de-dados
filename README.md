@@ -1,2 +1,2 @@
 # DIO-Engenharia-de-dados
-Bootcamp de Engenharia de Dados da DIO.
+Repositório dedicado para projetos realizados durante o bootcamp de Engenharia de Dados da DIO.
